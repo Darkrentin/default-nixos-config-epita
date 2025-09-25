@@ -22,7 +22,3 @@
 	smtpserver = smtp.office365.com
 	smtpserverport = 587
 	smtpuser = firstname.lastname@epita.fr
-[init]
-	defaultBranch = master
-[credential]
-	helper = store --file ~/afs/.cred
